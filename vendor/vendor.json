@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HuW5g535PhU4F2sN5J2o5GL459c=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "866c3293d9a76aa491e56cc978d0d7fb0e63e121",
+			"revisionTime": "2017-03-21T00:14:48Z"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/golang-plus/database-sql-sqlite"
+}
